@@ -1,4 +1,6 @@
-# Business — Generative Engine Optimization Map
+# דביר צברי נדלן — Generative Engine Optimization Map
+
+> A נדל"ן business.
 
 ---
 
@@ -43,7 +45,18 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About דביר צברי נדלן
+דביר צברי נדלן is a business in the נדל"ן industry.
+
+## Target Audience
+- רוכשי דירות ראשונות
+- משקיעי נדל"ן
+- משפרי דיור
+- מחפשי בתי יוקרה
+
+## Industry
+נדל"ן
+
 ---
 
 # Additional Resources
