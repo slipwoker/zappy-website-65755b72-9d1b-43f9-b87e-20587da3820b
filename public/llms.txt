@@ -1,6 +1,4 @@
-# דביר צברי נדלן — Generative Engine Optimization Map
-
-> A נדל"ן business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -8,6 +6,9 @@
 
 ### Home
 https://debir-tzabari-real-estate.zappy5.app
+
+### Listings
+https://debir-tzabari-real-estate.zappy5.app/listings
 
 ### About
 https://debir-tzabari-real-estate.zappy5.app/about
@@ -45,18 +46,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About דביר צברי נדלן
-דביר צברי נדלן is a business in the נדל"ן industry.
-
-## Target Audience
-- רוכשי דירות ראשונות
-- משקיעי נדל"ן
-- משפרי דיור
-- מחפשי בתי יוקרה
-
-## Industry
-נדל"ן
-
+## About Business
 ---
 
 # Additional Resources
